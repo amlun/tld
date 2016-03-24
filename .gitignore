@@ -3,4 +3,4 @@ logs
 vendor
 composer.lock
 .DS_Store
-src/Amlun/TLD/tld.data
+src/Amlun/TLD/tld.dat
