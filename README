@@ -1,0 +1,5 @@
+===
+tld
+===
+Extracts the top level domain (TLD) from the URL given.
+List of TLD names is taken from `Public suffix<https://publicsuffix.org/list/effective_tld_names.dat>`_.
