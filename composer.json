@@ -1,0 +1,20 @@
+{
+  "name": "amlun/tld",
+  "description": "Extracts the top level domain (TLD) from the URL given.",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "authors": [
+    {
+      "name": "lunweiwei",
+      "email": "lunweiwei@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Amlun\\TLD\\": "src/Amlun/TLD"
+    }
+  }
+}
