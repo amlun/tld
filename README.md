@@ -8,5 +8,9 @@ List of TLD names is taken from Public suffix: <https://publicsuffix.org/list/ef
 
 Usage:
 
-`$extract = \Amlun\TLD\Extract::instance();
-$tld = $extract->domain('www.amlun.com');`
+```php
+
+$extract = \Amlun\TLD\Extract::instance();
+$tld = $extract->domain('www.amlun.com'); // this will return *amlun.com*
+
+```
